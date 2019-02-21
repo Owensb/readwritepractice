@@ -3,7 +3,7 @@
 2. Next, it reformats the fields
 3. Last, it writes to the specified output file with a date 
 
-If the account does not contain all the fields, the account is dropped from the output.
+If the csv line does not contain all the fields, the line is dropped from the output.
 
 This was developed on a windows machine. 
 
